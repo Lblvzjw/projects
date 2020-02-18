@@ -6,7 +6,67 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29df2e14-d32b-4c6c-a719-60e695c08906" name="Default" comment="" />
+    <list default="true" id="29df2e14-d32b-4c6c-a719-60e695c08906" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cash.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/goodsbrowse.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/goodsbrowse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/orderBrowse.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/orderBrowse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pay.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/common/OrderStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/entity/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/entity/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/entity/OrderItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/script/order_orderItem_querysql.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/servlet/BrowseOrderServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/servlet/BuyGoodsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/servlet/DelGoodsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/servlet/GoodsBrowseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/servlet/InboundServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/servlet/ReadyBuyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/servlet/RegisterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/servlet/UpdateGoodsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/servlet/loginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/classes/util/DBUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/lib/commons-codec-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/lib/jackson-core-2.8.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/lib/jackson-databind-2.8.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/lib/lombok-1.18.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/lib/mysql-connector-java-5.1.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/buyGoodsSuccess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/Site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/amazeui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/zy.all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/zy.form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/zy.layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/zy.menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/zy.pageRecord.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/zy.table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/css/zy.tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/goodsbrowse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/inbound.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/js/_layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/js/jquery-1.7.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/js/plugs/JqueryMD5_DinJonYa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/js/plugs/JquerySQLDateToDate_DinJonYa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/js/plugs/Jqueryplugs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/js/plugs/jquery.SuperSlide.source.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/orderBrowse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/pay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello-bit-idea/updategoods.html" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,37 +139,89 @@
       <file leaf-file-name="goodsbrowse.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/goodsbrowse.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+            <state relative-caret-position="1020">
+              <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#button#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#button#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBUtil.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/DBUtil.java">
+      <file leaf-file-name="buyGoodsSuccess.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/buyGoodsSuccess.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoodsBrowseServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/GoodsBrowseServlet.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+            <state relative-caret-position="1486">
+              <caret line="50" column="19" lean-forward="true" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BrowseOrderServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/BrowseOrderServlet.java">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/register.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+            <state relative-caret-position="210">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updategoods.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/updategoods.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" selection-start-line="11" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inbound.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/inbound.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="81" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="88" selection-start-line="88" selection-end-line="89" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" selection-start-line="5" selection-end-line="6" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,62 +230,11 @@
       <file leaf-file-name="orderBrowse.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/orderBrowse.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="34" column="75" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
+            <state relative-caret-position="120">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InboundServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/InboundServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuyGoodsServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/BuyGoodsServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="order" pinned="false" current-in-tab="false">
-        <entry file="das://a6bbb3b5-b597-4f4c-9369-8fd8284e8b75/schema/cash/table/order">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/entity/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="52" column="5" selection-start-line="51" selection-start-column="28" selection-end-line="52" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="order_item" pinned="false" current-in-tab="false">
-        <entry file="das://a6bbb3b5-b597-4f4c-9369-8fd8284e8b75/schema/cash/table/order_item">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -194,10 +255,12 @@
       <find>max</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/entity/Account.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/DBUtil.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/inbound.html" />
@@ -208,8 +271,6 @@
         <option value="$PROJECT_DIR$/src/main/java/servlet/GoodsBrowseServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/loginServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/OrderItem.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/buyGoodsSuccess.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/UpdateGoodsServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/updategoods.html" />
         <option value="$PROJECT_DIR$/src/main/resources/script/order_orderItem_querysql.sql" />
@@ -218,9 +279,15 @@
         <option value="$PROJECT_DIR$/src/main/java/servlet/ReadyBuyServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/BuyGoodsServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/BrowseOrderServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/orderBrowse.html" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/InboundServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pay.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/orderBrowse.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/goodsbrowse.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/buyGoodsSuccess.html" />
       </list>
     </option>
   </component>
@@ -273,9 +340,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -338,15 +402,7 @@
               <item name="Cash" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Cash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cash" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="script" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Cash" type="b2602c69:ProjectViewProjectNode" />
@@ -354,11 +410,39 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cash" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Cash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Cash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="Cash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -434,13 +518,13 @@
       <listeners />
     </configuration>
     <configuration name="CashTom" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/login.html" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/cash/" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="Cash:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/cash" />
           </settings>
         </artifact>
       </deployment>
@@ -539,11 +623,13 @@
       <workItem from="1581681560175" duration="686000" />
       <workItem from="1581749060339" duration="920000" />
       <workItem from="1581776688673" duration="91000" />
+      <workItem from="1582013678472" duration="418000" />
+      <workItem from="1582014668547" duration="6161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85074000" />
+    <option name="totallyTimeSpent" value="91653000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -566,7 +652,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="5" weight="0.16487935" />
-      <window_info id="Structure" order="1" sideWeight="0.14265537" side_tool="true" visible="true" weight="0.22252011" />
+      <window_info id="Structure" order="1" sideWeight="0.1474245" side_tool="true" weight="0.22788204" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5156538" />
@@ -576,20 +662,20 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.32909605" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20480226" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2036775" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8573446" visible="true" weight="0.22252011" />
-      <window_info id="Web" order="6" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8525755" visible="true" weight="0.22788204" />
+      <window_info id="Web" order="6" sideWeight="0.1474245" side_tool="true" weight="0.22788204" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Database Console" order="11" weight="0.32909605" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,9 +690,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/goodsbrowse.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/inbound.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -623,16 +706,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/updategoods.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a6bbb3b5-b597-4f4c-9369-8fd8284e8b75/console.sql">
@@ -723,11 +796,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlet/loginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -749,13 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/inbound.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="42" column="81" lean-forward="true" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://a6bbb3b5-b597-4f4c-9369-8fd8284e8b75/schema/cash/table/goods">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -770,38 +831,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/pay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="48" column="92" selection-start-line="48" selection-start-column="79" selection-end-line="48" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlet/UpdateGoodsServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1826">
           <caret line="77" column="58" selection-start-line="77" selection-start-column="58" selection-end-line="77" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/updategoods.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -850,13 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/buyGoodsSuccess.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlet/BuyGoodsServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -898,16 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/orderBrowse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="34" column="75" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/servlet/InboundServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1290">
@@ -915,17 +931,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/goodsbrowse.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/DBUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        <state relative-caret-position="510">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/DBUtil.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/orderBrowse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <caret line="88" selection-start-line="88" selection-end-line="89" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/updategoods.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1486">
+          <caret line="50" column="19" lean-forward="true" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/buyGoodsSuccess.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/goodsbrowse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#button#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#button#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/inbound.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="81" selection-start-line="42" selection-start-column="81" selection-end-line="42" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
