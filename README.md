@@ -1,4 +1,4 @@
-# projects
+# MyCash
 项目名称： “万维Order”
 
 应用技术： Web、Servlet、JDBC、MySQL、HTML、Ajax、Lombok
